@@ -8,9 +8,12 @@ header,img{
 }
 */
 .header-menu{
-    background-color: blue;
-
+      text-align: center;
 }
+
+
+
+
 .img-logo{
-    height: 1080px; ; width: 1850px; ;
+    height: 1080px; ; width: 1920px; ;
 }

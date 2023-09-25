@@ -8,7 +8,23 @@
     display: inline;
 }
 */
+/*
 .footer-menu{
-    display: inline;
+    display: flex;
+    justify-content: space-around;
     background-color: aqua;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+  
+}
+*/
+/*
+.footer-menu img{
+    height: 100px;
+    width: 100px;
+}
+*/
+.Footer-casa{
+    display: flex;
 }
